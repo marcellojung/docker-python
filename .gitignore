@@ -1,0 +1,12 @@
+# Python 관련
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter Notebook 체크포인트
+.ipynb_checkpoints/
+
+# Docker 관련
+workspace/
+.env
+docker-python/
