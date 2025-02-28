@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # 프로젝트 디렉토리 설정
-PROJECT_DIR=~/docker-python
+PROJECT_DIR=~/coding/docker/docker-python
 
 # 디렉토리 생성 (없다면 생성)
 mkdir -p $PROJECT_DIR/workspace
